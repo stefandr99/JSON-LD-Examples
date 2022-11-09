@@ -1,0 +1,82 @@
+{
+  "@type": [
+    "http://schema.org/Organization"
+  ],
+  "http://schema.org/member": [
+    {
+      "@type": [
+        "http://schema.org/Person"
+      ],
+      "http://schema.org/name": [
+        {
+          "@value": "Mike Jack"
+        }
+      ],
+      "http://schema.org/email": [
+        {
+          "@value": "mike.jack@gmail.com"
+        }
+      ],
+      "http://schema.org/Country": [
+        {
+          "@value": "France"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "http://schema.org/Person"
+      ],
+      "http://schema.org/country": [
+        {
+          "@value": "USA"
+        }
+      ],
+      "http://schema.org/email": [
+        {
+          "@value": "tom.cruise@gmail.com"
+        }
+      ],
+      "http://schema.org/name": [
+        {
+          "@value": "Tom Cruise"
+        }
+      ]
+    },
+    {
+      "@type": [
+        "http://schema.org/Person"
+      ],
+      "http://schema.org/name": [
+        {
+          "@value": "Mary Jane"
+        }
+      ],
+      "http://schema.org/email": [
+        {
+          "@value": "mary.jane@gmail.com"
+        }
+      ],
+      "http://schema.org/Country": [
+        {
+          "@value": "USA"
+        }
+      ]
+    }
+  ],
+  "http://schema.org/address": [
+    {
+      "@value": "Holywood"
+    }
+  ],
+  "http://schema.org/name": [
+    {
+      "@value": "Celebrities"
+    }
+  ],
+  "http://schema.org/location": [
+    {
+      "@value": "Famous People Center"
+    }
+  ]
+}
